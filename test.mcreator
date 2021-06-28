@@ -45,6 +45,24 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "tulox"
+    },
+    {
+      "name": "Vaviaiva",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "vaviaiva"
+    },
+    {
+      "name": "Viffivifv",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "viffivifv"
     }
   ],
   "variable_elements": [],
@@ -52,10 +70,7 @@
   "language_map": {
     "en_us": {
       "block.test.dasdasdsaasd": "Dasdasdsaasd",
-      "block.test.fddghghfgh": "Fddghghfgh",
-      "block.test.tulox": "Tulox",
-      "block.test.avifivvfi": "Avifivvfi",
-      "block.test.hgdfgsfgdfg": "Hgdfgsfgdfg"
+      "block.test.avifivvfi": "Avifivvfi"
     }
   },
   "foldersRoot": {

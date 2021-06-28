@@ -4,12 +4,12 @@ package net.mcreator.test.block;
 import net.minecraft.block.material.Material;
 
 @TestModElements.ModElement.Tag
-public class HgdfgsfgdfgBlock extends TestModElements.ModElement {
+public class ViffivifvBlock extends TestModElements.ModElement {
 
-	@ObjectHolder("test:hgdfgsfgdfg")
+	@ObjectHolder("test:viffivifv")
 	public static final Block block = null;
 
-	public HgdfgsfgdfgBlock(TestModElements instance) {
+	public ViffivifvBlock(TestModElements instance) {
 		super(instance, 3);
 
 	}
@@ -26,7 +26,7 @@ public class HgdfgsfgdfgBlock extends TestModElements.ModElement {
 		public CustomBlock() {
 			super(Block.Properties.create(Material.ROCK).sound(SoundType.GROUND).hardnessAndResistance(1f, 10f).setLightLevel(s -> 0));
 
-			setRegistryName("hgdfgsfgdfg");
+			setRegistryName("viffivifv");
 		}
 
 		@Override
