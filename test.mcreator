@@ -9,13 +9,23 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "dasdasdsaasd"
+    },
+    {
+      "name": "Avifivvfi",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "avifivvfi"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "block.test.dasdasdsaasd": "Dasdasdsaasd"
+      "block.test.dasdasdsaasd": "Dasdasdsaasd",
+      "block.test.avifivvfi": "Avifivvfi"
     }
   },
   "foldersRoot": {
