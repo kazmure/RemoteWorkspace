@@ -63,6 +63,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "viffivifv"
+    },
+    {
+      "name": "Lada",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lada"
     }
   ],
   "variable_elements": [],
