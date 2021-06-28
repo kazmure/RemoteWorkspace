@@ -27,6 +27,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "viffivifv"
+    },
+    {
+      "name": "Vaviaiva",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "vaviaiva"
     }
   ],
   "variable_elements": [],
@@ -35,6 +44,7 @@
     "en_us": {
       "block.test.viffivifv": "Viffivifv",
       "block.test.dasdasdsaasd": "Dasdasdsaasd",
+      "block.test.vaviaiva": "Vaviaiva",
       "block.test.avifivvfi": "Avifivvfi"
     }
   },
