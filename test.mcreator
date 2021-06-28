@@ -36,6 +36,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "fddghghfgh"
+    },
+    {
+      "name": "Tulox",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tulox"
     }
   ],
   "variable_elements": [],
@@ -44,6 +53,7 @@
     "en_us": {
       "block.test.dasdasdsaasd": "Dasdasdsaasd",
       "block.test.fddghghfgh": "Fddghghfgh",
+      "block.test.tulox": "Tulox",
       "block.test.avifivvfi": "Avifivvfi",
       "block.test.hgdfgsfgdfg": "Hgdfgsfgdfg"
     }
