@@ -27,6 +27,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "hgdfgsfgdfg"
+    },
+    {
+      "name": "Fddghghfgh",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fddghghfgh"
     }
   ],
   "variable_elements": [],
@@ -34,6 +43,7 @@
   "language_map": {
     "en_us": {
       "block.test.dasdasdsaasd": "Dasdasdsaasd",
+      "block.test.fddghghfgh": "Fddghghfgh",
       "block.test.avifivvfi": "Avifivvfi",
       "block.test.hgdfgsfgdfg": "Hgdfgsfgdfg"
     }
