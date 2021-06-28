@@ -20,6 +20,15 @@
       "registry_name": "avifivvfi"
     },
     {
+      "name": "Vaviaiva",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "vaviaiva"
+    },
+    {
       "name": "Viffivifv",
       "type": "block",
       "sortid": 3,
@@ -29,22 +38,29 @@
       "registry_name": "viffivifv"
     },
     {
-      "name": "Vaviaiva",
+      "name": "Fddghghfgh",
       "type": "block",
       "sortid": 4,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "vaviaiva"
+      "registry_name": "fddghghfgh"
+    },
+    {
+      "name": "Hgdfgsfgdfg",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hgdfgsfgdfg"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "block.test.viffivifv": "Viffivifv",
       "block.test.dasdasdsaasd": "Dasdasdsaasd",
-      "block.test.vaviaiva": "Vaviaiva",
       "block.test.avifivvfi": "Avifivvfi"
     }
   },
@@ -69,5 +85,5 @@
     "modElementsPackage": "net.mcreator.test",
     "lockBaseModFiles": false
   },
-  "mcreatorVersion": 202100118117
+  "mcreatorVersion": 202100116710
 }
