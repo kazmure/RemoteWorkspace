@@ -18,12 +18,22 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "avifivvfi"
+    },
+    {
+      "name": "Viffivifv",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "viffivifv"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
+      "block.test.viffivifv": "Viffivifv",
       "block.test.dasdasdsaasd": "Dasdasdsaasd",
       "block.test.avifivvfi": "Avifivvfi"
     }
