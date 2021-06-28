@@ -41,7 +41,7 @@
       "name": "Tulox",
       "type": "block",
       "sortid": 5,
-      "compiles": true,
+      "compiles": false,
       "locked_code": false,
       "ids": {},
       "registry_name": "tulox"
@@ -63,14 +63,28 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "viffivifv"
+    },
+    {
+      "name": "Lada",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lada"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
+      "block.test.viffivifv": "Viffivifv",
       "block.test.dasdasdsaasd": "Dasdasdsaasd",
-      "block.test.avifivvfi": "Avifivvfi"
+      "block.test.lada": "Lada",
+      "block.test.fddghghfgh": "Fddghghfgh",
+      "block.test.vaviaiva": "Vaviaiva",
+      "block.test.avifivvfi": "Avifivvfi",
+      "block.test.hgdfgsfgdfg": "Hgdfgsfgdfg"
     }
   },
   "foldersRoot": {

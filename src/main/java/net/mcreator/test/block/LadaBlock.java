@@ -19,11 +19,11 @@ import java.util.List;
 import java.util.Collections;
 
 @TestModElements.ModElement.Tag
-public class ViffivifvBlock extends TestModElements.ModElement {
-	@ObjectHolder("test:viffivifv")
+public class LadaBlock extends TestModElements.ModElement {
+	@ObjectHolder("test:lada")
 	public static final Block block = null;
-	public ViffivifvBlock(TestModElements instance) {
-		super(instance, 3);
+	public LadaBlock(TestModElements instance) {
+		super(instance, 6);
 	}
 
 	@Override
@@ -35,7 +35,7 @@ public class ViffivifvBlock extends TestModElements.ModElement {
 	public static class CustomBlock extends Block {
 		public CustomBlock() {
 			super(Block.Properties.create(Material.ROCK).sound(SoundType.GROUND).hardnessAndResistance(1f, 10f).setLightLevel(s -> 0));
-			setRegistryName("viffivifv");
+			setRegistryName("lada");
 		}
 
 		@Override
